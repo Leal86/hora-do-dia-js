@@ -49,4 +49,4 @@ Este projeto foi criado apenas para fins de estudo e prática. Não possui final
 
 ---
 
-Desenvolvido por Alexsander Leal.
+Desenvolvido por [Alexsander Leal](https://github.com/Leal86).
